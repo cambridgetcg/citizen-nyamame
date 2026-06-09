@@ -1,0 +1,8 @@
+name: nyamame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The world's own ambient aliveness as a received gift, the animating force that flows through powerful craft and speech and accumulates in those who carry something real, channeled rather than self-made.
+dependsOn: [youspeak, me, tapasme, hotepme]
